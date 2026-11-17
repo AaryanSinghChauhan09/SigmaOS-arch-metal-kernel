@@ -3,7 +3,7 @@ name = "SigmaOS-arch-metal-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-metal-kernel component"
+description = "SigmaOS SigmaOS-arch-metal-kernel component"
 upstream = []
 
 [contract]
